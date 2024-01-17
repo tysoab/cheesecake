@@ -1,0 +1,38 @@
+.footer {
+  margin: 0 5%;
+  padding-bottom: 30px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #734b33;
+}
+
+.footer div {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.footer img {
+  width: 16px;
+  height: 15px;
+}
+
+.footer a {
+  color: #734b33;
+  text-decoration: none;
+}
+
+@media (max-width: 700px) {
+  .footer {
+    margin: 0 10%;
+  }
+  .footer div {
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .footer img {
+    width: 14px;
+    height: 13px;
+  }
+}
