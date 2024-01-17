@@ -1,6 +1,6 @@
 import style from "./HeroSection.module.css";
 import mainIcon1 from "../assets/hero-image.png";
-import mainIcon2 from "../assets/vector.png";
+// import mainIcon2 from "../assets/vectore.png";
 import Button from "../ui/Button";
 
 export default function Hero() {
@@ -16,7 +16,7 @@ export default function Hero() {
           <Button type="secondary">Get started</Button>
           <Button type="primary">
             <div>
-              <img src={mainIcon2} alt="cheesecake" />
+              {/* <img src={mainIcon2} alt="cheesecake" /> */}
               <span>Watch Demo</span>
             </div>
           </Button>
