@@ -1,5 +1,5 @@
 import style from "./HeroSection.module.css";
-import mainIcon1 from "../assets/main-image1.png";
+import mainIcon1 from "../assets/hero-image.png";
 import mainIcon2 from "../assets/main-image2.png";
 import Button from "../ui/Button";
 
