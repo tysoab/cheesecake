@@ -1,6 +1,6 @@
 import style from "./HeroSection.module.css";
 import mainIcon1 from "../assets/hero-image.png";
-import mainIcon2 from "../assets/vector.png";
+import mainIcon2 from "../assets/vector.jpg";
 import Button from "../ui/Button";
 
 export default function Hero() {
